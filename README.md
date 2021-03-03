@@ -1,5 +1,8 @@
 # Tendermint
 
+tendermint是一个开源的完整的区块链实现，可以用于公链或联盟链，其官方定位 是面向开发者的区块链共识引擎
+
+
 ![banner](docs/tendermint-core-image.jpg)
 
 [Byzantine-Fault Tolerant](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
